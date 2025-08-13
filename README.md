@@ -1,5 +1,26 @@
-# Vue 3 + TypeScript + Vite
+# 🌤 Weather App
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Aplicación web en **Vue 3 + TypeScript + Vite** que muestra información meteorológica utilizando la API de **OpenWeatherMap**.  
+Incluye sistema de traducciones (ES, EN, FR), selector de unidades (°C / °F) y almacenamiento local de ubicaciones favoritas.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+---
+
+## 🚀 Requisitos
+
+- [Node.js](https://nodejs.org/) v18 o superior
+- [npm](https://www.npmjs.com/) (incluido con Node.js)
+- Una cuenta y API Key gratuita de [OpenWeatherMap](https://openweathermap.org/api)
+
+---
+
+## 📥 Instalación
+
+Clona el repositorio y entra en el directorio del proyecto:
+git clone https://github.com/Kevo-dev98/weather-app-vue.git
+cd weather-app-vue
+
+Instala las dependencias:
+npm install
+
+Ejecutar en dev:
+npm run dev
