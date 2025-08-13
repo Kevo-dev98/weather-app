@@ -15,8 +15,10 @@ Incluye sistema de traducciones (ES, EN, FR), selector de unidades (°C / °F) y
 
 ## 📥 Instalación
 
-Clona el repositorio y entra en el directorio del proyecto:
+Clona el repositorio:
 git clone https://github.com/Kevo-dev98/weather-app-vue.git
+
+Entra en el directorio del proyecto:
 cd weather-app-vue
 
 Instala las dependencias:
