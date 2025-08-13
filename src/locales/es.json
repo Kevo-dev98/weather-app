@@ -1,0 +1,39 @@
+{
+  "app.title": "MyWeather App",
+  "saved.title": "Localidades guardadas",
+  "saved.subtitle": "Almacena tus localidades y alterna entre ellas.",
+  "search.placeholder": "Buscar ciudad (ej. Madrid, ES)",
+  "search.button": "Buscar",
+  "saved.empty": "Aún no tienes localidades guardadas. Busca una ciudad arriba.",
+  "saved.view": "Ver",
+  "saved.remove": "Eliminar",
+
+  "panel.empty.title": "Sin localidad seleccionada",
+  "panel.empty.subtitle": "Elige una localidad para ver el tiempo actual y la previsión.",
+
+  "panel.weatherOf": "Weather of:",
+  "panel.temp.max": "máx",
+  "panel.temp.min": "mín",
+  "panel.pressure": "Presión:",
+  "panel.humidity": "Humedad:",
+  "panel.visibility": "Visibilidad:",
+  "panel.wind": "Viento:",
+  "panel.forecast": "Previsión (5 días)",
+
+  "units.hpa": "hPa",
+  "units.percent": "%",
+  "units.km": "km",
+  "units.ms": "m/s",
+  "units.degC": "°C",
+  "forecast.5.days": "Previsión (5 días)",
+
+  "weather.clear_sky": "cielo claro",
+  "weather.few_clouds": "algo de nubes",
+  "weather.scattered_clouds": "nubes dispersas",
+  "weather.broken_clouds": "nubes rotas",
+  "weather.shower_rain": "chubascos",
+  "weather.rain": "lluvia",
+  "weather.thunderstorm": "tormenta",
+  "weather.snow": "nieve",
+  "weather.mist": "niebla"
+}

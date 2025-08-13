@@ -1,0 +1,39 @@
+{
+  "app.title": "MyWeather App",
+  "saved.title": "Lieux enregistrés",
+  "saved.subtitle": "Enregistrez vos lieux et alternez entre eux.",
+  "search.placeholder": "Rechercher une ville (ex. Madrid, ES)",
+  "search.button": "Rechercher",
+  "saved.empty": "Vous n'avez pas encore de lieux enregistrés. Cherchez une ville ci-dessus.",
+  "saved.view": "Voir",
+  "saved.remove": "Supprimer",
+
+  "panel.empty.title": "Aucun lieu sélectionné",
+  "panel.empty.subtitle": "Choisissez un lieu pour voir la météo actuelle et les prévisions.",
+
+  "panel.weatherOf": "Météo de:",
+  "panel.temp.max": "max",
+  "panel.temp.min": "min",
+  "panel.pressure": "Pression:",
+  "panel.humidity": "Humidité:",
+  "panel.visibility": "Visibilité:",
+  "panel.wind": "Vent:",
+  "panel.forecast": "Prévisions (5 jours)",
+
+  "units.hpa": "hPa",
+  "units.percent": "%",
+  "units.km": "km",
+  "units.ms": "m/s",
+  "units.degC": "°C",
+  "forecast.5.days": "Prévisions (5 jours)",
+
+  "weather.clear_sky": "ciel dégagé",
+  "weather.few_clouds": "quelques nuages",
+  "weather.scattered_clouds": "nuages épars",
+  "weather.broken_clouds": "nuages fragmentés",
+  "weather.shower_rain": "averses",
+  "weather.rain": "pluie",
+  "weather.thunderstorm": "orage",
+  "weather.snow": "neige",
+  "weather.mist": "brume"
+}

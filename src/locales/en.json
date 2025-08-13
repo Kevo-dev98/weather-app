@@ -1,0 +1,39 @@
+{
+  "app.title": "MyWeather App",
+  "saved.title": "Saved locations",
+  "saved.subtitle": "Store your locations and switch between them.",
+  "search.placeholder": "Search city (e.g. Madrid, ES)",
+  "search.button": "Search",
+  "saved.empty": "You don't have saved locations yet. Search a city above.",
+  "saved.view": "View",
+  "saved.remove": "Remove",
+
+  "panel.empty.title": "No location selected",
+  "panel.empty.subtitle": "Choose a location to see current weather and forecast.",
+
+  "panel.weatherOf": "Weather of:",
+  "panel.temp.max": "max",
+  "panel.temp.min": "min",
+  "panel.pressure": "Pressure:",
+  "panel.humidity": "Humidity:",
+  "panel.visibility": "Visibility:",
+  "panel.wind": "Wind:",
+  "panel.forecast": "Forecast (5 days)",
+
+  "units.hpa": "hPa",
+  "units.percent": "%",
+  "units.km": "km",
+  "units.ms": "m/s",
+  "units.degC": "°C",
+  "forecast.5.days": "Forecast (5 days)",
+
+  "weather.clear_sky": "clear sky",
+  "weather.few_clouds": "few clouds",
+  "weather.scattered_clouds": "scattered clouds",
+  "weather.broken_clouds": "broken clouds",
+  "weather.shower_rain": "shower rain",
+  "weather.rain": "rain",
+  "weather.thunderstorm": "thunderstorm",
+  "weather.snow": "snow",
+  "weather.mist": "mist"
+}
